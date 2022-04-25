@@ -13,5 +13,8 @@
   },
   "devDependencies": {
     "@types/react": "^17.0.44"
+  },
+  "publishConfig": {
+    "@cristophersolis:registry": "https://npm.pkg.github.com"
   }
 }
